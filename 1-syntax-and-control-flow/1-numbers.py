@@ -1,7 +1,7 @@
 # Read through the following expressions and predict the output once printed.
 # What data type will they evaluate to?
 # Justify your predictions in a comment below each expression
-
+#hello
 # 1.
 12*4
 
